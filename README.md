@@ -5,4 +5,6 @@ Dice: A program written in Java that rolls a pair of six sided dice and displays
 
 DiceDoubles: A program written in Java that keeps running until doubles are rolled with the pair of six sided dice.
 
+Magic8Ball: Displays the 20 answers of a standard Magic 8-Ball.
+
 NumberGuessingwithaCounter: A number guessing game that counts the number of tries the user took to correctly guess the number written in Java.
